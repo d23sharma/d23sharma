@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Sharma
 - 👀 I’m interested in Cricket, music
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m Full Stack Developer (MERN Stack)
  📫 You can reach me via email address... d23sharma@gmail.com
 
 <!---
